@@ -59,6 +59,15 @@ mvn spring-boot:run
 2. Sign up for a new account or log in if you already have one.
 3. Once authenticated, you can perform CRUD operations on tasks.
 
+## Swagger API Documentation
+
+Our application uses Swagger for API documentation. Swagger provides a set of great tools for designing, building, and documenting RESTful APIs. It also provides a user-friendly interface to explore and test the API.
+
+### Accessing Swagger UI
+
+Once the application is running, you can access the Swagger UI at:
+`http://localhost:8080/swagger-ui/`
+
 ## API Endpoints
 
 This Todo Management application provides the following RESTful API endpoints:
